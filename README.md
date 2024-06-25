@@ -1,1 +1,1 @@
-# lipopred
+# This the the working app for solubility prediction
