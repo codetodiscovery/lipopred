@@ -1,1 +1,1 @@
-# This the the working app for solubility prediction
+# This the the working app for lipophilicity prediction
